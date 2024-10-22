@@ -38,7 +38,7 @@ If you'd like to get in touch, feel free to reach out through any of the followi
 ## 🛠 How to Use This Repository
 1. Clone the repository using:
    ```bash
-   git clone https://github.com/RajendharAre/.git
+   git clone https://github.com/RajendharAre/Contact-Mangement-System.git
 
 <!---
 RajendharAre/RajendharAre is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
