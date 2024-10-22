@@ -30,7 +30,7 @@ Repository of my solutions to various coding problems on LeetCode. Most of them 
 ## 📫 Contact Me
 If you'd like to get in touch, feel free to reach out through any of the following:
 
-- **LinkedIn:** [RajendharAre](https://linkedin.com/RajendharAre)
+- **LinkedIn:** [RajendharAre](https://www.linkedin.com/in/rajendhar-are/)
 - **GitHub:** [GitHub Profile](https://github.com/RajendharAre)
 - **Email:** arerajendhar33@gmail.com
 - **Phone:** +91 8688907550
